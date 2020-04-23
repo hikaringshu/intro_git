@@ -4,3 +4,5 @@ Here is additional line.
 4th line added.
 5th line added, and then
 6th line is also added
+git diff is added fot 7th.
+
